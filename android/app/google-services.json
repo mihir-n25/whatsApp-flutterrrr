@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91114233040",
+    "project_id": "whatsapp-backend-20f3e",
+    "storage_bucket": "whatsapp-backend-20f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91114233040:android:940ba17f5d26006b6252d5",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26US06xmWwWCllCZsyQ47JPHXj4M186A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
